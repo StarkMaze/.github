@@ -1,8 +1,13 @@
-# Description
+<h1 align="center">StarkMaze💫</h1
+<h4 align="center">Built with ❤️ during the <a href="https://matchboxdao.com/">MatchboxDAO</a> Hackathon (3nd-10th July 2022)</h2>
+<br>
+<br>
 
-StarkMaze is a mini maze game! every day a new labyrinth will be generated. The player will have to solve this maze as quickly as possible. at the end of his game, an nft corresponding to the path he has traveled will be generated. The player can share his score directly on twitter.
+## Description
 
-# On-chain game computation
+StarkMaze is a mini recuring maze game build on <a href="https://starknet.io/">StarkNet</a> ! every day a new labyrinth will be generated. Player have to solve the daily maze as quickly as possible. at the end of his game, an nft corresponding to the path he has traveled will be generated. The player can share his score directly on twitter.
+
+## On-chain game computation
 
 We decided to build a fully on-chain game. It mean that our maze generation algorithm will be coding and executing on-chain. 
 First of all, we'll use depth first search to generate a perfect maze. A perfect maze is a maze with only one path between any two cells. Since there is only one path between any two points you can represent a perfect maze as a tree. Then use both depth first search and breadth first search to solve the maze. 
@@ -30,9 +35,12 @@ Functions already implemented :
 | ```_cell_in_bounds()```       | Check that the current cell is already inside the maze. |
 
 ## 2- Maze solving
-
+COMING SOON
 
 ## 3- Movements
 
 
-## 4- Recuring game
+## 4- Recurring game
+
+For the management of the recurring generation of the maze, we have decided to use the <a href="https://docs.yagi.fi/">Yagi Finance</a> solution which will allow us to automate the generation of the maze every day
+We have started the implementation but we are waiting for the return of their team in order to be able to automate everything with them.
