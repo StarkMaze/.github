@@ -49,6 +49,7 @@ COMING SOON
 
 ## 3- Movements
 
+For movements, we have in our smart contract defined 4 functions (move_up, move_down, move_left, move_right) that we call each time a user performs a movement. The next step is to group each movement and use the multicall in order to have the transactions grouped
 
 ## 4- Recurring game
 
