@@ -10,9 +10,9 @@ StarkMaze is a mini recuring maze game build on <a href="https://starknet.io/">S
 ## Installation
 
 We have 3 repository: <br>
-`starkmaze-contracts` <br>
-`starkmaze-frontend` <br>
-`starkmaze-frontend-Gen-onChain` <br>
+`starkmaze-contracts`             -> Repo of our differents Smart Contract <br> 
+`starkmaze-frontend`              -> Repo of our final site w/maze generation on-chain <br>
+`starkmaze-frontend-Gen-onChain`  -> Repo of a test with off-chain generation of the maze <br>
 
 
 
@@ -60,3 +60,11 @@ We have started the implementation but we are waiting for the return of their te
 ## 5- Next step
 
 We will continue this project and go to the end, we have discussed a lot with many people who gave us valuable advice for the rest of the project.
+
+Next features: <br>
+ Finish on-chain generation of maze <br>
+ Implement NFT with good path
+ Add on-chain stopwatch
+ Multicall function with all move
+ Change UI
+ 
