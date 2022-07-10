@@ -7,6 +7,16 @@
 
 StarkMaze is a mini recuring maze game build on <a href="https://starknet.io/">StarkNet</a> ! every day a new labyrinth will be generated. Player have to solve the daily maze as quickly as possible. at the end of his game, an nft corresponding to the path he has traveled will be generated. The player can share his score directly on twitter.
 
+## Installation
+
+We have 3 repository: <br>
+`starkmaze-contracts` <br>
+`starkmaze-frontend` <br>
+`starkmaze-frontend-Gen-onChain` <br>
+
+
+
+
 ## On-chain game computation
 
 We decided to build a fully on-chain game. It mean that our maze generation algorithm will be coding and executing on-chain. 
@@ -44,3 +54,7 @@ COMING SOON
 
 For the management of the recurring generation of the maze, we have decided to use the <a href="https://docs.yagi.fi/">Yagi Finance</a> solution which will allow us to automate the generation of the maze every day
 We have started the implementation but we are waiting for the return of their team in order to be able to automate everything with them.
+
+## 5- Next step
+
+We will continue this project and go to the end, we have discussed a lot with many people who gave us valuable advice for the rest of the project.
