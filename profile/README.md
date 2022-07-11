@@ -5,7 +5,7 @@
 
 ## Description
 
-StarkMaze is a mini recuring maze game build on <a href="https://starknet.io/">StarkNet</a> ! everyday a new labyrinth will be generated. Player have to solve the daily maze as quickly as possible. at the end of his game, an nft corresponding to the path he has traveled will be generated. The player can share his score directly on twitter.
+StarkMaze is a mini recurring maze game build on <a href="https://starknet.io/">StarkNet</a> ! everyday a new labyrinth will be generated. Player have to solve the daily maze as quickly as possible. at the end of his game, an nft corresponding to the path he has traveled will be generated. The player can share his score directly on twitter.
 
 ## Installation
 
