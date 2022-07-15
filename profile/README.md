@@ -68,3 +68,7 @@ Next features: <br>
  Multicall function with all move
  Change UI
  
+## License
+
+**StarkMaze** is released under the [MIT](LICENSE).
+ 
